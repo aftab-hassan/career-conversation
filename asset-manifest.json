@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/career-conversation/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/career-conversation/static/js/main.10cf14f2.chunk.js",
+    "main.js.map": "/career-conversation/static/js/main.10cf14f2.chunk.js.map",
+    "runtime-main.js": "/career-conversation/static/js/runtime-main.6b777f53.js",
+    "runtime-main.js.map": "/career-conversation/static/js/runtime-main.6b777f53.js.map",
+    "static/js/2.485a0078.chunk.js": "/career-conversation/static/js/2.485a0078.chunk.js",
+    "static/js/2.485a0078.chunk.js.map": "/career-conversation/static/js/2.485a0078.chunk.js.map",
+    "static/js/3.8581e087.chunk.js": "/career-conversation/static/js/3.8581e087.chunk.js",
+    "static/js/3.8581e087.chunk.js.map": "/career-conversation/static/js/3.8581e087.chunk.js.map",
+    "index.html": "/career-conversation/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/career-conversation/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.485a0078.chunk.js.LICENSE.txt": "/career-conversation/static/js/2.485a0078.chunk.js.LICENSE.txt",
+    "static/media/director-media-strategy.dc667097.png": "/career-conversation/static/media/director-media-strategy.dc667097.png",
+    "static/media/manager-businessanalytics.fa07d0d0.png": "/career-conversation/static/media/manager-businessanalytics.fa07d0d0.png",
+    "static/media/mba-candidates.4ceb978f.png": "/career-conversation/static/media/mba-candidates.4ceb978f.png",
+    "static/media/vp-ea-evp-nhl.ac64f112.png": "/career-conversation/static/media/vp-ea-evp-nhl.ac64f112.png",
+    "static/media/vp-gaming-facebook.52ff3697.png": "/career-conversation/static/media/vp-gaming-facebook.52ff3697.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b777f53.js",
+    "static/js/2.485a0078.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.10cf14f2.chunk.js"
+  ]
+}
